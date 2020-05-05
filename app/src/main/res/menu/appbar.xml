@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_love"
+        android:onClick="accionLikeAppBar"
+        android:orderInCategory="5"
+        android:title="like"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/itemAppBar"
+        android:orderInCategory="10"
+        android:title="Item"
+        app:showAsAction="ifRoom" />
+</menu>

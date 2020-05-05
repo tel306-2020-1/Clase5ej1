@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clase5ej1</string>
+    <string-array name="listaCelulares">
+        <item>Iphone</item>
+        <item>Samsung</item>
+        <item>Nokia</item>
+        <item>Blackberry</item>
+    </string-array>
+</resources>
